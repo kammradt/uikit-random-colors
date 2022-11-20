@@ -9,8 +9,12 @@
 
 ## How it looks 📸
 
-![From Iphone](RandomColors/iphone.mp4)
-![From Simulator](RandomColors/simulator.mov)
+From Iphone             |  From Simulator
+:-------------------------:|:-------------------------:
+![From Iphone](https://user-images.githubusercontent.com/34798570/202917999-8dcd8283-687e-41c6-a6f6-ccbf3c98e753.mp4)
+  |  ![From Simulator](https://user-images.githubusercontent.com/34798570/202918027-1388d268-d553-4063-9e19-d1f0188d8f52.mov)
+
+
 
 
 ## Author👤
