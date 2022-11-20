@@ -5,7 +5,9 @@
   </a>
 </p>
 
-> Learning UIKit with a single view & Colors
+> Learning UIKit with a single view & Colors. 
+
+> Learning with this course: https://www.youtube.com/watch?v=CwA1VWP0Ldw
 
 ## How it looks 📸
 
