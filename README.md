@@ -7,18 +7,21 @@
 
 > Learning UIKit with a single view & Colors
 
-## Author
+## How it looks 📸
 
-👤 **Vinícius Kammradt**
+![From Iphone](RandomColors/iphone.mp4)
+![From Simulator](RandomColors/simulator.mov)
+
+
+## Author👤
+
+**Vinícius Kammradt**
 
 * Website: https://kammradt.super.site
 * Twitter: [@kammzinho](https://twitter.com/kammzinho)
 * Github: [@kammradt](https://github.com/kammradt)
 * LinkedIn: [@vinicius-kammradt](https://linkedin.com/in/vinicius-kammradt)
 
-## Show your support
+## Show your support ♥️
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
