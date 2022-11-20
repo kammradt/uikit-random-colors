@@ -9,22 +9,10 @@
 
 ## How it looks 📸
 
+https://user-images.githubusercontent.com/34798570/202918606-918faaf5-50a4-4116-af63-a704fd5694f0.mov
 
+https://user-images.githubusercontent.com/34798570/202918602-2f46839d-b6c8-4147-b083-acc77a924fba.mp4
 
-<table>
-  <tr>
-     <td>From Iphone</td>
-     <td>From Simulator</td>
-  </tr>
-  <tr>
-    <td><video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/34798570/202918360-c605b6f4-6732-44da-9b2e-549818cf5369.mp4" type="video/mp4">
-</video></td>
-    <td><video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/34798570/202918372-11d705ea-e881-4e18-92e4-6efe4e98f334.mov" type="video/mp4">
-</video></td>
-  </tr>
- </table>
 
 ## Author👤
 
