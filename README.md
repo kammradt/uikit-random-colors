@@ -11,9 +11,6 @@
 
 https://user-images.githubusercontent.com/34798570/202918606-918faaf5-50a4-4116-af63-a704fd5694f0.mov
 
-https://user-images.githubusercontent.com/34798570/202918602-2f46839d-b6c8-4147-b083-acc77a924fba.mp4
-
-
 ## Author👤
 
 **Vinícius Kammradt**
