@@ -17,8 +17,12 @@
      <td>From Simulator</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/34798570/202918360-c605b6f4-6732-44da-9b2e-549818cf5369.mp4" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/34798570/202918372-11d705ea-e881-4e18-92e4-6efe4e98f334.mov" width=270 height=480></td>
+    <td><video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/34798570/202918360-c605b6f4-6732-44da-9b2e-549818cf5369.mp4" type="video/mp4">
+</video></td>
+    <td><video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/34798570/202918372-11d705ea-e881-4e18-92e4-6efe4e98f334.mov" type="video/mp4">
+</video></td>
   </tr>
  </table>
 
